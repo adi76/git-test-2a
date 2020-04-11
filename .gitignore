@@ -1,2 +1,4 @@
 .conf
 configuration.php
+*.ini
+!public.ini
